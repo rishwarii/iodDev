@@ -1,0 +1,18 @@
+{
+  "configurations" : [
+    {
+      "id" : "0768783E-5323-48A3-8302-A479946CCC55",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
